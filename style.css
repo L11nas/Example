@@ -114,7 +114,7 @@ body {
   .menu-toggle {
     display: flex;
     position: absolute;
-    left: 400px;
+    left: 300px;
     top: 10px;
   }
 
